@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>李佳熹</title>
+    <link>/zh/</link>
+      <atom:link href="/zh/index.xml" rel="self" type="application/rss+xml" />
+    <description>李佳熹</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>zh-Hans</language><lastBuildDate>Fri, 15 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>李佳熹</title>
+      <link>/zh/</link>
+    </image>
+    
+    <item>
+      <title>A Weighted Tensor Principal Component Analysis on Intraday Stock Returns</title>
+      <link>/zh/publication/field_paper/</link>
+      <pubDate>Fri, 15 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>/zh/publication/field_paper/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>房地产投资信托基金Shiny小程序</title>
+      <link>/zh/project/external-project/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>/zh/project/external-project/</guid>
+      <description>&lt;p&gt;在研究房地产投资信托基金的股权融资成本时，我用R语言写了这个Shiny App。这个小程序也可以用于计算其他资产的股权融资成本。&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
