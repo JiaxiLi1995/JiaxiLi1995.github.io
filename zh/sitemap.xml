@@ -15,19 +15,6 @@
                 href="/zh/publication-type/3/"
                 />
   </url><url>
-    <loc>/zh/publication/field_paper/</loc>
-    <lastmod>2023-12-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-us"
-                href="/publication/field_paper/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-Hans"
-                href="/zh/publication/field_paper/"
-                />
-  </url><url>
     <loc>/zh/authors/</loc>
     <lastmod>2023-12-15T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -91,6 +78,19 @@
                 rel="alternate"
                 hreflang="zh-Hans"
                 href="/zh/tags/"
+                />
+  </url><url>
+    <loc>/zh/publication/field_paper/</loc>
+    <lastmod>2023-12-15T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="/publication/field_paper/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="/zh/publication/field_paper/"
                 />
   </url><url>
     <loc>/zh/</loc>
